@@ -37,6 +37,8 @@ print("Проверка/скачивание датасета...")
 path = kagglehub.dataset_download("jessicali9530/celeba-dataset")
 print("Path to dataset files:", path)
 
+# баги ккакашки
+# баги ккакашки
 # --- Настройка логирования ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
