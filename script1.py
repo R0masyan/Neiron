@@ -657,6 +657,12 @@ def train_model(learning_rate, epochs, batch_size, progress_callback=None):
         if progress_callback:
             progress_callback(epoch + 1, epochs)
 
+    # баги ккакашки
+    # баги ккакашки
+    # баги ккакашки
+    # баги ккакашки
+    # баги ккакашки
+    # баги ккакашки
     logger.info("Обучение завершено.")
 # --- Метрики ---
 @torch.no_grad()
