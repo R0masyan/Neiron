@@ -31,6 +31,8 @@ import kagglehub
 
 # --- Загрузка датасета ---
 # Download latest version
+
+# баги ккакашки
 print("Проверка/скачивание датасета...")
 path = kagglehub.dataset_download("jessicali9530/celeba-dataset")
 print("Path to dataset files:", path)
